@@ -4,8 +4,8 @@
 
 ## 文件说明
 
-- `xxx.py`：练习文件（请用你实际的文件名替换）
-- `.idea/`：PyCharm 项目配置文件夹，可忽略
+- `out_of_class_knowledge.py`：练习文件
+- `.idea/`：PyCharm 
 
 ## 我的学习目标
 
@@ -18,4 +18,4 @@
 使用 Python 3 环境，直接在终端或 IDE 中运行对应的 `.py` 文件即可。
 
 ```bash
-python 文件名.py
+python out_of_class_knowledge.py
